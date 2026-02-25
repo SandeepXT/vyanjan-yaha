@@ -87,7 +87,7 @@ vyanjan-yaha/
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/vyanjan-yaha.git
+git clone https://github.com/SandeepXT/vyanjan-yaha.git
 cd vyanjan-yaha
 npm install
 ```
@@ -153,10 +153,10 @@ npm start
     { "menuItemId": "item-005", "quantity": 1 }
   ],
   "deliveryDetails": {
-    "name": "Arjun Sharma",
+    "name": "Sandeep",
     "phone": "9876543210",
-    "address": "123 MG Road, Connaught Place, New Delhi 110001",
-    "landmark": "Near Metro Station",
+    "address": "123 MG Road, Connaught Place, delhi 110001",
+    "landmark": "Near temple iskon",
     "instructions": "Please call on arrival"
   }
 }
